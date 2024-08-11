@@ -1,3 +1,7 @@
+//I don't have any apple device. 
+//So unable to create hub on apple device using selenium grid.
+//So unable to test the testCases on safari browsers.
+
 package testCases;
 
 import java.io.File;
