@@ -21,7 +21,7 @@ public class TakeScreenshot {
         String timestamp = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss").format(new Date());
         
         // Define the directory structure
-        String directoryPath = System.getProperty("user.dir") + "\\uploadTestScreenshot\\" + timestamp;
+        String directoryPath = System.getProperty("user.dir") + "\\FuntionalTestScreenshot\\" + timestamp;
         
         // Create the directory if it doesn't exist
         File directory = new File(directoryPath);
